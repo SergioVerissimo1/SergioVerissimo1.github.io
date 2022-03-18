@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000012C.html"],['313',"SocialTravel.Services Namespace","topic_00000000000000D9.html"],['314',"EmailSender Class","topic_00000000000000DA.html"],['316',"Methods","topic_00000000000000DA_methods--.html"],['317',"SendEmailAsync Method","topic_00000000000000DC.html"]];

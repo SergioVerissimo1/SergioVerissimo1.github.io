@@ -1,0 +1,1 @@
+search_result['235']=["topic_0000000000000074.html","TripDeleteResponseDto.IsTripDeleteSucessful Property",""];

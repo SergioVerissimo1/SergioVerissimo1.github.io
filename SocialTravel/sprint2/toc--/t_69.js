@@ -1,0 +1,1 @@
+c['69']=[['70',"UserApiController Constructor","topic_0000000000000012.html",0],['71',"Methods","topic_0000000000000011_methods--.html",1]];
