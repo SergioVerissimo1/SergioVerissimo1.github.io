@@ -1,0 +1,1 @@
+search_result['1049']=["topic_0000000000000132.html","TripTypeResponseDto.TripTypes Property",""];
