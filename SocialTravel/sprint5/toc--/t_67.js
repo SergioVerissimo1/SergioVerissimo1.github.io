@@ -1,0 +1,1 @@
+c['67']=[['68',"DetaillsNotificationTest Constructor","topic_000000000000035D.html",0],['69',"Properties","topic_0000000000000358_props--.html",1],['73',"Methods","topic_0000000000000358_methods--.html",1],['76',"Fields","topic_0000000000000358_vars--.html",1]];

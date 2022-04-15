@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038B.html"],['877',"SocialTravelAutomationTest Namespace","topic_0000000000000346.html"],['878',"DeleteNotificationTest Class","topic_0000000000000347.html"],['880',"Properties","topic_0000000000000347_props--.html"],['881',"driver Property","topic_0000000000000348.html"]];

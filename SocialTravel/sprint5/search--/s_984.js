@@ -1,0 +1,1 @@
+search_result['984']=["topic_0000000000000108.html","InterestPointDto.latitude Property",""];

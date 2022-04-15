@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038B.html"],['413',"SocialTravel.DTO.Responses Namespace","topic_0000000000000093.html"],['705',"UsersBackofficeResponseDto Class","topic_0000000000000167.html"],['706',"Properties","topic_0000000000000167_props--.html"],['709',"Users Property","topic_0000000000000169.html"]];

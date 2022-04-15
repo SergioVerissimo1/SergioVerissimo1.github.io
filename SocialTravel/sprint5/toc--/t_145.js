@@ -1,0 +1,1 @@
+c['145']=[['146',"GetTrip(int, int, string, string, string, string, string, string, string, bool, bool, bool) Method","topic_0000000000000039.html",0],['147',"GetTrip(int) Method","topic_0000000000000038.html",0]];
